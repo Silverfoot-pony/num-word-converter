@@ -1,0 +1,3 @@
+PyQt6
+word2number
+num2words
