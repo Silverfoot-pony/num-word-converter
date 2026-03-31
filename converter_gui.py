@@ -32,7 +32,7 @@ class ConverterWindow(QWidget):
 
     def init_ui(self):
         """Initialize the GUI layout."""
-        self.setWindowTitle("EndeavourOS KDE Converter")
+        self.setWindowTitle("Num-Word Converter")
         self.resize(400, 350)
         
         # Set background to match the general theme slightly if possible, 
